@@ -1,2 +1,1 @@
-Rock,Paper,Scissors game
-Python 3.8
+Basic games with Python 
