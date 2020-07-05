@@ -25,7 +25,7 @@ In this step, using python if loop if BMI is greater than 40 print Obese Class I
 
 ## Guessing a number game
 
-* We firt import the random module that  generate a random number.
+* We first import the random module that  generate a random number.
 * Then will prompt the user to enter his name and store it to a variable named myname
 * We also prompt the user to choose the level of difficulty which will determine the number of guesses 
 ## Constructing the while loop 
