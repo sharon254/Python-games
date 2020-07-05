@@ -4,7 +4,7 @@ import random
 # tries keep count of how many guesses player makes
 tries, random_num = 0, random.randint(1, 10)
 while True:
-    print('Guess a number in the range of 1-10')
+    print('Guess a number in the range of 1-100')
     your_guess = int(input())
     if your_guess > random_num:
         print('{} is greater than the random number X'.
