@@ -24,15 +24,16 @@ In this step, using python if loop if BMI is greater than 40 print Obese Class I
 ## Rock,Paper,Scissors game
 
 ## Guessing a number game
+
 * We firt import the random module that  generate a random number.
  * Then will prompt the user to enter his name and store it to a variable named myname
- ## * We also prompt the user to choose the level of difficulty which will determine the number of guesses 
-### Constructing the while loop 
+  * We also prompt the user to choose the level of difficulty which will determine the number of guesses 
+Constructing the while loop 
  we are taking the input from the user and storing it in the guess variable.
  However, the user input we are getting from the user is a string object in order to perform a mathematical operations,
  we first need to convert it to an integer which is done by the inbuilt int() method.
- ## *In the next line, we are incrementing the value of number_of_guesses variable by 1.
- ## Next we have 3 conditional statements.
+ *In the next line, we are incrementing the value of number_of_guesses variable by 1.
+* Next we have 3 conditional statements.
 *In the first, if statement we are comparing if the guess is less than the generated number if this statement evaluates to true, we print the corresponding Guess.
 *Similarly, we are checking if the guess is greater than the generated number.
 *The final if statement has the break keyword, which will terminate the loop entirely, So when the guess is equal to the generated number loop gets terminated.
