@@ -22,9 +22,10 @@ In this step, using python if loop if BMI <40 print Obese Class II (Severely obe
 In this step, using python if loop if BMI is greater than 40 print Obese Class III (Very severely obese).
 
 ## Rock,Paper,Scissors game
+
 ## Guessing a number game
-## * We firt import the random module that  generate a random number.
-## * Then will prompt the user to enter his name and store it to a variable named myname
+* We firt import the random module that  generate a random number.
+ * Then will prompt the user to enter his name and store it to a variable named myname
  ## * We also prompt the user to choose the level of difficulty which will determine the number of guesses 
 ### Constructing the while loop 
  we are taking the input from the user and storing it in the guess variable.
