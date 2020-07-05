@@ -1,7 +1,7 @@
 # Basic games with Python. 
 
 ## BMI calculator
-##Step 1
+## Step 1
 In this step,we are egtting the inputs for the height and weight from an individual.
 Step 2
 In this step, we calculate the BMI using the formula BMI = weight / height **2.
